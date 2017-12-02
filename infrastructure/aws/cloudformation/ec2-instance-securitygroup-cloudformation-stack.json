@@ -223,8 +223,9 @@
                 "Ref": "SubnetId2"
               }
             ]
-          }
-       },
+          },
+		   "DependsOn": "ALBListener"
+	   },
 		"WebServerSecurityGroup": {
 			"Type": "AWS::EC2::SecurityGroup",
 			"Properties": {
