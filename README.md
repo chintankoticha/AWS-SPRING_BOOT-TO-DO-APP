@@ -28,7 +28,3 @@
 	- View results in tree: View results on running the application and jmeter test server.
 
 
-#Link to Travis-CI build
-* https://travis-ci.com/LalwaniN/csye6225-fall2017
-
-
